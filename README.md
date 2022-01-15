@@ -27,3 +27,11 @@ qb-core/shared/
 ````
 https://cdn.discordapp.com/attachments/928937299759202324/929079566792786061/unknown.png
 ````
+
+````
+small drone size 
+GetHashKey('ch_prop_arcade_drone_01a')
+big drone size 
+GetHashKey('ch_prop_casino_drone_02a')
+you can change drone size prop in drone config
+
